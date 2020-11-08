@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP.h
+iostream
+-
+cmath
+-
+cctype
+-
+cstring
+-
+stdio.h
+-
+cstdio
+-
+EasyBMP_DataStructures.h
+C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_DataStructures.h
+EasyBMP_BMP.h
+C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_BMP.h
+EasyBMP_VariousBMPutilities.h
+C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_VariousBMPutilities.h
+
+C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_BMP.h
+
+C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_DataStructures.h
+
+C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_VariousBMPutilities.h
+
+C:/Users/xtkcb/study/Median-Filtering/main.cpp
+iostream
+-
+EasyBMP/EasyBMP.h
+C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP.h
+vector
+-
+algorithm
+-
+
