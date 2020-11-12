@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Median_Filtering.dir/EasyBMP/EasyBMP.cpp.obj"
-  "CMakeFiles/Median_Filtering.dir/main.cpp.obj"
-  "Median_Filtering.exe"
-  "Median_Filtering.exe.manifest"
+  "CMakeFiles/Median_Filtering.dir/EasyBMP/EasyBMP.cpp.o"
+  "CMakeFiles/Median_Filtering.dir/main.cpp.o"
+  "Median_Filtering"
   "Median_Filtering.pdb"
-  "libMedian_Filtering.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

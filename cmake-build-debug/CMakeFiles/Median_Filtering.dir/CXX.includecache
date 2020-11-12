@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP.h
 iostream
 -
 cmath
@@ -20,25 +20,35 @@ stdio.h
 cstdio
 -
 EasyBMP_DataStructures.h
-C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_DataStructures.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP_DataStructures.h
 EasyBMP_BMP.h
-C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_BMP.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP_BMP.h
 EasyBMP_VariousBMPutilities.h
-C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_VariousBMPutilities.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP_VariousBMPutilities.h
 
-C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_BMP.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP_BMP.h
 
-C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_DataStructures.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP_DataStructures.h
 
-C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP_VariousBMPutilities.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP_VariousBMPutilities.h
 
-C:/Users/xtkcb/study/Median-Filtering/main.cpp
+/home/elek34ka/Documents/project_mid/Median-Filtering/MedianFilter.h
 iostream
 -
 EasyBMP/EasyBMP.h
-C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP.h
 vector
 -
 algorithm
+-
+cuda.h
+-
+
+/home/elek34ka/Documents/project_mid/Median-Filtering/main.cpp
+MedianFilter.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/MedianFilter.h
+device_launch_parameters.h
+/home/elek34ka/Documents/project_mid/Median-Filtering/device_launch_parameters.h
+iostream
 -
 

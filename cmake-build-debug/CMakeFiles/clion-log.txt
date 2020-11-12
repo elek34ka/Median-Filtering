@@ -1,4 +1,4 @@
-C:\Users\xtkcb\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\xtkcb\study\Median-Filtering
+/snap/clion/129/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/elek34ka/Documents/project_mid/Median-Filtering
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/xtkcb/study/Median-Filtering/cmake-build-debug
+-- Build files have been written to: /home/elek34ka/Documents/project_mid/Median-Filtering/cmake-build-debug

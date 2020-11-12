@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/xtkcb/study/Median-Filtering/EasyBMP/EasyBMP.cpp" "C:/Users/xtkcb/study/Median-Filtering/cmake-build-debug/CMakeFiles/Median_Filtering.dir/EasyBMP/EasyBMP.cpp.obj"
-  "C:/Users/xtkcb/study/Median-Filtering/main.cpp" "C:/Users/xtkcb/study/Median-Filtering/cmake-build-debug/CMakeFiles/Median_Filtering.dir/main.cpp.obj"
+  "/home/elek34ka/Documents/project_mid/Median-Filtering/EasyBMP/EasyBMP.cpp" "/home/elek34ka/Documents/project_mid/Median-Filtering/cmake-build-debug/CMakeFiles/Median_Filtering.dir/EasyBMP/EasyBMP.cpp.o"
+  "/home/elek34ka/Documents/project_mid/Median-Filtering/main.cpp" "/home/elek34ka/Documents/project_mid/Median-Filtering/cmake-build-debug/CMakeFiles/Median_Filtering.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
